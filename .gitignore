@@ -2,3 +2,5 @@ dist/
 build/
 *.whl
 *.test.*
+__pycache__/
+*.pyc
